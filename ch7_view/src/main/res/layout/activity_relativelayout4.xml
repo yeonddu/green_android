@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/yeonsu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#C1E56F"
+        android:textColor="#40463C"
+        android:text="Songyeonsu"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/yeonsu"
+        android:layout_toRightOf="@id/yeonsu"
+        android:adjustViewBounds="true"
+        android:maxWidth="100dp"
+        android:maxHeight="100dp"
+        android:src="@drawable/snoopy" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#C1E56F"
+        android:textColor="#40463C"
+        android:text="Songyeonsu"
+        android:layout_toRightOf="@id/yeonsu"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

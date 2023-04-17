@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FAF1D3"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="helloworld"
+        android:textColor="#676767"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="네이버 홈페이지 : https://www.naver.com/, 전화번호 : 123-4567, 이메일 : yeonsu@naver.com"
+        android:autoLink="web|email|phone"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/long_text"
+        android:singleLine="true"
+        android:ellipsize="middle"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#FAE18F"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="200dp"
+        android:maxHeight="200dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/snoopy"
+        android:background="#0000ff"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/long_text"
+        android:maxLines="3"
+        android:ellipsize="end"
+        />
+
+</LinearLayout>

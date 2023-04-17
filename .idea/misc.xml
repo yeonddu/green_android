@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/ProApplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android/ProApplication/ch10_notification/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/layout/fragment_one.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/layout/fragment_one1.xml" value="0.10207700101317123" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/layout/fragment_three.xml" value="0.1757852077001013" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/layout/fragment_three2.xml" value="0.10207700101317123" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/layout/fragment_two.xml" value="0.18" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/layout/item_recyclerview.xml" value="0.1757852077001013" />
+        <entry key="..\:/android/ProApplication/ch11_jetpack/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_frameLayout.xml" value="0.1757852077001013" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_framelayout.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_gridlayout.xml" value="0.11666666666666667" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_gridlayout2.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_gridlayout3.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_gridlayout4.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_gridlayout5.xml" value="0.15" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_gridlayout6.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_kakao.xml" value="0.25" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_linearlayout.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_linearlayout2.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_linearlayout3.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_linearlayout4.xml" value="0.10185185185185185" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_linearlayout5.xml" value="0.10185185185185185" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_linearlayout6.xml" value="0.10185185185185185" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_linearlayout_test.xml" value="0.25" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_relativelayout.xml" value="0.1757852077001013" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_relativelayout2.xml" value="0.1757852077001013" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_relativelayout3.xml" value="0.1757852077001013" />
+        <entry key="..\:/android/ProApplication/ch7_view/src/main/res/layout/activity_relativelayout4.xml" value="0.25" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/drawable/round_button.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/layout/activity_main1.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/layout/activity_main2.xml" value="0.16018518518518518" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/layout/activity_main6.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/layout/activity_main7.xml" value="0.14" />
+        <entry key="..\:/android/ProApplication/ch8_event/src/main/res/layout/activity_stopwatch.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch9_resource/src/main/res/layout-land/activity_main.xml" value="0.15" />
+        <entry key="..\:/android/ProApplication/ch9_resource/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android/ProApplication/ch_layout/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/ch_layout/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/android/ProApplication/ch_layout/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/android/ProApplication/mytest/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/drawable/ic_launcher_background.xml" value="0.146" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_button.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_editText.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_edit_text.xml" value="0.22" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_password.xml" value="0.25" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_view.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_view2.xml" value="0.16" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_view3.xml" value="0.1" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/layout/activity_view4.xml" value="0.25" />
+        <entry key="..\:/android/ProApplication/proapplication1/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

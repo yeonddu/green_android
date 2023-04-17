@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/mainTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/intro_main"
+        android:textColor="#313131"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_margin="20dp"/>
+    <TextView
+        android:id="@+id/detailTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mainTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:gravity="center_horizontal"
+        android:text="@string/intro_detail"
+        android:textColor="#313131"/>
+    <Button
+        android:id="@+id/introButton"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/detailTextView"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#E8433C"
+        android:text="@string/intro_button"/>
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/introButton"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#ECE5E5"
+        android:text="@string/intro_delay"
+        android:textColor="#666565" />
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="좋아하는 동물 소개"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:adjustViewBounds="true"
+                    android:background="#ffffff"
+                    android:maxWidth="200dp"
+                    android:maxHeight="200dp"
+                    android:src="@drawable/cat" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="야옹"
+                    android:textColor="#9593C4"
+                    android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#E2E1EF"
+            android:padding="10dp"
+            android:text="노르웨이 숲 고양이는 삼각형 모양의 머리에 두껍고 근육이 잘 발달된 목을 가지고 있습니다. 귀는 중간 정도 크기이며 턱은 강하지만 약간 둥근편입니다. 다리는 탄탄한 근육질이며 뒷다리가 앞다리보다 약간 더 깁니다. 발은 매우 크고 둥근 형태이며 발가락 사이에 털이 나있습니다."
+            android:textColor="#9593C4"
+            android:textSize="14dp" />
+
+</LinearLayout>
